@@ -15,7 +15,6 @@
 
 - 🎓 Electronics Engineering student at IIT (BHU)
 - 🤖 Exploring ML, Deep Learning, NLP, and LLM-based systems
-- ⚡ Learning digital design, Verilog, and VLSI
 - 💻 Practising algorithms and competitive programming
 
 ### 🛠️ Tech Stack
